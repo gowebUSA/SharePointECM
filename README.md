@@ -4,9 +4,11 @@ ECM is a Solution that supports practices and methodologies implemented with Sha
 
 The key areas any ECM solution must address are:
 
-- Storage
-- Process
+- Storage - logical locatin of the file
+- Process - entire lifecycle of content
 - Governance - legal and business continuity
+  * Single source of truth
+  * Security 
 
 
 ### Module 2
