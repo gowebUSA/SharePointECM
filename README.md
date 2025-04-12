@@ -1,7 +1,7 @@
 # SharePointECM
 
-### Module 2
-
+<details>
+<summary>Module 2</summary>
 Key Components of an ECM Project Plan
 
 ![image](https://github.com/user-attachments/assets/f8018b07-c673-4f0c-a8f2-c67bcb027960)
@@ -48,8 +48,10 @@ It is important that these tests include credible scenarios of interacting with 
 
 Setting up a test environment is also an important task. Although sometimes it may not be possible to use the exact system infrastructure, a mock or demo infrastructure should be set up that incorporates the crucial subsystems and dependencies.
 
-### Module 3
+</details>
 
+<details>
+<summary>Module 3</summary>
 ECM is a Solution that supports practices and methodologies implemented with SharePoint technology.
 
 The key areas any ECM solution must address are:
@@ -62,5 +64,7 @@ The key areas any ECM solution must address are:
   * Versioning
   * Rights management
   * Retention policies
+
+</details>
 
 
