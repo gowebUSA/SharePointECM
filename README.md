@@ -1,16 +1,5 @@
 # SharePointECM
 
-ECM is a Solution that supports practices and methodologies implemented with SharePoint technology.
-
-The key areas any ECM solution must address are:
-
-- Storage - logical locatin of the file
-- Process - entire lifecycle of content
-- Governance - legal and business continuity
-  * Single source of truth
-  * Security 
-
-
 ### Module 2
 
 Key Components of an ECM Project Plan
@@ -58,5 +47,17 @@ Although the testers already execute the user acceptance tests before even reach
 It is important that these tests include credible scenarios of interacting with the system. When designing these tests, it is essential to incorporate feedback from domain experts and end users of the system. The tests usually include detailed, step-by-step instruction on how to execute the test scenarios in simple language. It is important that the people executing the user acceptance tests are selected from the actual end users, if possible.
 
 Setting up a test environment is also an important task. Although sometimes it may not be possible to use the exact system infrastructure, a mock or demo infrastructure should be set up that incorporates the crucial subsystems and dependencies.
+
+### Module 3
+
+ECM is a Solution that supports practices and methodologies implemented with SharePoint technology.
+
+The key areas any ECM solution must address are:
+
+- Storage - logical locatin of the file
+- Process - entire lifecycle of content
+- Governance - legal and business continuity
+  * Single source of truth
+  * Security 
 
 
