@@ -1,5 +1,14 @@
 # SharePointECM
 
+ECM is a Solution that supports practices and methodologies implemented with SharePoint technology.
+
+The key areas any ECM solution must address are:
+
+- Storage
+- Process
+- Governance
+
+
 ### Module 2
 
 Key Components of an ECM Project Plan
