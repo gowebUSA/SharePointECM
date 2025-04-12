@@ -6,7 +6,7 @@ The key areas any ECM solution must address are:
 
 - Storage
 - Process
-- Governance
+- Governance - legal and business continuity
 
 
 ### Module 2
