@@ -58,6 +58,9 @@ The key areas any ECM solution must address are:
 - Process - entire lifecycle of content
 - Governance - legal and business continuity
   * Single source of truth
-  * Security 
+  * Security
+  * Versioning
+  * Rights management
+  * Retention policies
 
 
